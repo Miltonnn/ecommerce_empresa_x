@@ -9,4 +9,4 @@ Vamos criar um **e-commerce**, para a *empresa X*
 
 ###### Melhorias do projeto:
 
-_Melhoria 1_, _Melhoria 2_
+__Melhoria 1__, _Melhoria 2_
