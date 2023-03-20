@@ -41,4 +41,7 @@ __Melhoria 1__, _Melhoria 2_
 
 [Google](https://www.google.com)
 
+<!-- //Link em formato de texto -->
 [https://www.horadecocar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://www.github.com/Miltonnn
