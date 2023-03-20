@@ -53,7 +53,7 @@ Contribuidor principal: https://www.github.com/Miltonnn
 ## Código da função soma
 
 ```javascript
-function soma(a,b) {
+function soma(a, b) {
     return a + b;
 }
 ```
