@@ -48,3 +48,12 @@ Contribuidor principal: https://www.github.com/Miltonnn
 
 <!-- Link em volta da imagem -->
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/Miltonnn)
+
+
+## Código da função soma
+
+```javascript
+function soma(a,b) {
+    return a + b;
+}
+```
