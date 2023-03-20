@@ -63,4 +63,4 @@ function soma(a, b) {
 - [x] Área de membros
 - [] Integração com outros pagamentos
 - [] Sistema de bônus
-- [] CSS do rodappé
+- [x] CSS do rodappé
